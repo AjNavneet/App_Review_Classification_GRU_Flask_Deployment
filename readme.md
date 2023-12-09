@@ -61,20 +61,3 @@ The dataset consists of app reviews and their corresponding ratings. The "score"
 
 ---
 
-## Key Concepts Explored
-
-1. Understanding Gated Recurrent Unit (GRU).
-3. What is a Recurrent Neural Network (RNN).
-4. Reasons for not using deep neural networks.
-5. Architecture of RNN.
-7. Addressing the problem of short-term memory.
-10. Stopwords
-11. Data preprocessing.
-12. Lemmatization of words.
-13. Tokenization of text.
-14. Building a GRU neural network.
-15. Deployment using Flask.
-
-
----
-
